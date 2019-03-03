@@ -33,29 +33,15 @@ features                                  :
 
   - title                                 : סריקת מספר רכב
     description                           : לצורך זיהוי מהיר של מספר הרכב ניתן לסרוק את המספר באמצעות מצלמת המכשיר
-    fontawesome_icon_name                 : magic
+    fontawesome_icon_name                 : camera
     
-  - title                                 : 100% אמינות
+  - title                                 : תמיד מעודכנת
     description                           : האפליקציה מתעדכנת על בסיס יומיומי מול מסד נתונים רשמי של משרד הרישוי
-    fontawesome_icon_name                 : mobile
+    fontawesome_icon_name                 : sync
 
   - title                                 : ללא פרסומות
     description                           : האפליקציה נכתבה עבור הקהילה ואינה כוללת פרסומות כלל
-    fontawesome_icon_name                 : play-circle
-
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : sync
-
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : adjust
-  
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : star
-
-
+    fontawesome_icon_name                 : dollar-sign
 
 # Theme Settings
 topbar_color                              : "#000000"
