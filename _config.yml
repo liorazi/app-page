@@ -43,6 +43,8 @@ features                                  :
     description                           : האפליקציה נכתבה עבור הקהילה ואינה כוללת פרסומות כלל
     fontawesome_icon_name                 : dollar-sign
 
+
+
 # Theme Settings
 topbar_color                              : "#000000"
 topbar_transparency                       : 0.1
